@@ -1,0 +1,10 @@
+name: TeleportBow
+version: '${project.version}'
+main: me.sparkyga.teleportbow.TeleportBow
+api-version: 1.19
+authors: [ Sparkyga ]
+description: A magical bow plugin that teleports you and stuff
+website: https://www.tiktok.com/sparkyga
+commands:
+  givebow:
+    description: Give yourself a bow.
