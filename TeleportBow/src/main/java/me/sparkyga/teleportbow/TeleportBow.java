@@ -21,6 +21,6 @@ public final class TeleportBow extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        System.out.println("The server is off!");
     }
 }
